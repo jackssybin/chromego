@@ -723,27 +723,18 @@
             "children": [ {
                "date_added": "12990688783000000",
                "id": "123",
-               "meta_info": {
-                  "last_visited_desktop": "13147418751882159"
-               },
                "name": "Facebook",
                "type": "url",
                "url": "https://zh-tw.facebook.com/bannedbook.org"
             }, {
                "date_added": "13014947310000000",
                "id": "124",
-               "meta_info": {
-                  "last_visited_desktop": "13147418701548841"
-               },
                "name": "Twitter",
                "type": "url",
                "url": "https://twitter.com/bannedebook"
             }, {
                "date_added": "12993714504000000",
                "id": "125",
-               "meta_info": {
-                  "last_visited_desktop": "13147418699573841"
-               },
                "name": "Google+",
                "type": "url",
                "url": "https://plus.google.com/+BannedbookOrg"
@@ -823,18 +814,12 @@
             }, {
                "date_added": "12990698833000000",
                "id": "138",
-               "meta_info": {
-                  "last_visited_desktop": "13147417721137973"
-               },
                "name": "IP地址查询 - 本机的 ip",
                "type": "url",
                "url": "http://www.ip138.com/"
             }, {
                "date_added": "12995683332000000",
                "id": "139",
-               "meta_info": {
-                  "last_visited_desktop": "13147427704785942"
-               },
                "name": "IP地址查询 - 代理的 ip【全局代理】",
                "type": "url",
                "url": "http://ipcheck.bannedbook.org/"
